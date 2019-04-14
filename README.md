@@ -5,5 +5,5 @@
 2. make
 3. make install
 
-## auther
-
+## author
+romaika027
